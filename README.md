@@ -11,7 +11,6 @@
 - 𝑨𝒍𝒍 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒆𝒓𝒔 𝑭𝒊𝒙𝒆𝒅 𝒂𝒏𝒅 𝒂𝒓𝒆 𝑾𝒐𝒓𝒌𝒊𝒏𝒈🔥.
 - 𝑶𝒗𝒆𝒓𝒂𝒍 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑰𝒎𝒑𝒓𝒐𝒗𝒆𝒎𝒆𝒏𝒕𝒔🤫.
 - Deprecated Buttoned Commands so everything is fine.
-
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -126,7 +125,7 @@
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
 - **[CONTACT SUPPORT](https://api.giftedtech.my.id/contact) For More Info**
-- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.**
+- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaiKSW77j6g9EK46w02a ) for Daily Updates.**
 - **Check out my [Website Profile](https://giftedtech.my.id) for More Projects.**
 </details>
 
